@@ -1,0 +1,2 @@
+# Ordered by output of `jazzy — help config`
+jazzy --min-acl internal -x -workspace,Superhero.xcworkspace,-scheme,Superhero

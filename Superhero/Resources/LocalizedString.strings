@@ -1,0 +1,19 @@
+/* 
+  LocalizedString.strings
+  Superhero
+
+  Created by Innocent Magagula on 2020/05/22.
+  Copyright © 2020 Innocent Magagula. All rights reserved.
+*/
+
+"search.title" = "Superheroes";
+"search.searchController.placeholder" = "Search Superhero";
+"search.message.title" = "Search for superheroes";
+"search.message.description" = "Enter superhero name on the search field to see their details";
+"first.appeared" = "First Appeared: ";
+"fullname" = "Full Name: ";
+
+"error.title" = "Error";
+"error.unknown" = "An unknow error occured";
+
+

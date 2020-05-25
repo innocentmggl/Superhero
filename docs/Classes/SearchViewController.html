@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>SearchViewController Class Reference</title>
+    <link rel="stylesheet" type="text/css" href="../css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="../css/highlight.css" />
+    <meta charset='utf-8'>
+    <script src="../js/jquery.min.js" defer></script>
+    <script src="../js/jazzy.js" defer></script>
+    
+  </head>
+  <body>
+    <a name="//apple_ref/swift/Class/SearchViewController" class="dashAnchor"></a>
+    <a title="SearchViewController Class Reference"></a>
+    <header>
+      <div class="content-wrapper">
+        <p><a href="../index.html"> Docs</a> (24% documented)</p>
+      </div>
+    </header>
+    <div class="content-wrapper">
+      <p id="breadcrumbs">
+        <a href="../index.html"> Reference</a>
+        <img id="carat" src="../img/carat.png" />
+        SearchViewController Class Reference
+      </p>
+    </div>
+    <div class="content-wrapper">
+      <nav class="sidebar">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a href="../Classes.html">Classes</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Classes/AppAppearance.html">AppAppearance</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/AppConfigurations.html">AppConfigurations</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/AppDIContainer.html">AppDIContainer</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/AppDelegate.html">AppDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/Box.html">Box</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/DefaultSearchManager.html">DefaultSearchManager</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/DefaultSearchViewModel.html">DefaultSearchViewModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/DefaultShowDetailsViewModel.html">DefaultShowDetailsViewModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/RoundConerView.html">RoundConerView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SearchViewController.html">SearchViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ShowDetailsViewController.html">ShowDetailsViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SuperheroItemCell.html">SuperheroItemCell</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Global%20Variables.html">Global Variables</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Global%20Variables.html#/s:9Superhero11loadingViewSo6UIViewCSgvp">loadingView</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Enums.html">Enumerations</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Enums/ApiError.html">ApiError</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/BaseUrl.html">BaseUrl</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/FontFace.html">FontFace</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/FontSize.html">FontSize</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/Router.html">Router</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/SuperheroApi.html">SuperheroApi</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Extensions.html">Extensions</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Extensions/NSObject.html">NSObject</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/String.html">String</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/StringProtocol.html">StringProtocol</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/TimeInterval.html">TimeInterval</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/UIFont.html">UIFont</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/UISearchBar.html">UISearchBar</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/UITableView.html">UITableView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/UIView.html">UIView</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Protocols.html">Protocols</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Protocols/Alertable.html">Alertable</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/LoadingIndicactor.html">LoadingIndicactor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/SearchManager.html">SearchManager</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols.html#/s:9Superhero15SearchViewModelP">SearchViewModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/SearchViewModelInput.html">SearchViewModelInput</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/SearchViewModelOutput.html">SearchViewModelOutput</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols.html#/s:9Superhero20ShowDetailsViewModelP">ShowDetailsViewModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/ShowDetailsViewModelOutput.html">ShowDetailsViewModelOutput</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/StoryboardInstantiable.html">StoryboardInstantiable</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/SuperheroRepository.html">SuperheroRepository</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Structs.html">Structures</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Structs/Avatar.html">Avatar</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Avatar/AvatarCodingKeys.html">– AvatarCodingKeys</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Biography.html">Biography</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Biography/CodingKeys.html">– CodingKeys</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/PowerStats.html">PowerStats</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/PowerStats/CodingKeys.html">– CodingKeys</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Superhero.html">Superhero</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Superhero/CodingKeys.html">– CodingKeys</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/SuperheroRepositoryImplementation.html">SuperheroRepositoryImplementation</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/SuperheroResponse.html">SuperheroResponse</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/SuperheroResponse/CodingKeys.html">– CodingKeys</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+        <section>
+          <section class="section">
+            <h1>SearchViewController</h1>
+              <div class="declaration">
+                <div class="language">
+                  <pre class="highlight swift"><code><span class="kd">class</span> <span class="kt">SearchViewController</span> <span class="p">:</span> <span class="kt">UIViewController</span><span class="p">,</span> <span class="kt"><a href="../Protocols/Alertable.html">Alertable</a></span><span class="p">,</span> <span class="kt"><a href="../Protocols/LoadingIndicactor.html">LoadingIndicactor</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">SearchViewController</span><span class="p">:</span> <span class="kt">UISearchResultsUpdating</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">SearchViewController</span><span class="p">:</span> <span class="kt">UISearchBarDelegate</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">SearchViewController</span><span class="p">:</span> <span class="kt">UITableViewDelegate</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">SearchViewController</span><span class="p">:</span> <span class="kt">UITableViewDataSource</span></code></pre>
+
+                </div>
+              </div>
+            <p>View controller to manage the searching of  superhero characters and showing search result list</p>
+
+          </section>
+          <section class="section task-group-section">
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@Superhero@objc(cs)SearchViewController(py)tableView"></a>
+                    <a name="//apple_ref/swift/Property/tableView" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@Superhero@objc(cs)SearchViewController(py)tableView">tableView</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">@IBOutlet</span>
+<span class="k">weak</span> <span class="k">var</span> <span class="nv">tableView</span><span class="p">:</span> <span class="kt">UITableView</span><span class="o">!</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <div class="task-name-container">
+                <a name="/VIEW%20CONTROLLER%20LIFECYCLE"></a>
+                <a name="//apple_ref/swift/Section/VIEW CONTROLLER LIFECYCLE" class="dashAnchor"></a>
+                <div class="section-name-container">
+                  <a class="section-name-link" href="#/VIEW%20CONTROLLER%20LIFECYCLE"></a>
+                  <h3 class="section-name"><p>VIEW CONTROLLER LIFECYCLE</p>
+</h3>
+                </div>
+              </div>
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@Superhero@objc(cs)SearchViewController(im)viewDidLoad"></a>
+                    <a name="//apple_ref/swift/Method/viewDidLoad()" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@Superhero@objc(cs)SearchViewController(im)viewDidLoad">viewDidLoad()</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="k">override</span> <span class="kd">func</span> <span class="nf">viewDidLoad</span><span class="p">()</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@Superhero@objc(cs)SearchViewController(im)viewWillAppear:"></a>
+                    <a name="//apple_ref/swift/Method/viewWillAppear(_:)" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@Superhero@objc(cs)SearchViewController(im)viewWillAppear:">viewWillAppear(_:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="k">override</span> <span class="kd">func</span> <span class="nf">viewWillAppear</span><span class="p">(</span><span class="n">_</span> <span class="nv">animated</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@Superhero@objc(cs)SearchViewController(im)viewDidAppear:"></a>
+                    <a name="//apple_ref/swift/Method/viewDidAppear(_:)" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@Superhero@objc(cs)SearchViewController(im)viewDidAppear:">viewDidAppear(_:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="k">override</span> <span class="kd">func</span> <span class="nf">viewDidAppear</span><span class="p">(</span><span class="n">_</span> <span class="nv">animated</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <div class="task-name-container">
+                <a name="/HELPER%20METHODS"></a>
+                <a name="//apple_ref/swift/Section/HELPER METHODS" class="dashAnchor"></a>
+                <div class="section-name-container">
+                  <a class="section-name-link" href="#/HELPER%20METHODS"></a>
+                  <h3 class="section-name"><p>HELPER METHODS</p>
+</h3>
+                </div>
+              </div>
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:9Superhero20SearchViewControllerC11handleRoute5routeyAA6RouterO_tF"></a>
+                    <a name="//apple_ref/swift/Method/handleRoute(route:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:9Superhero20SearchViewControllerC11handleRoute5routeyAA6RouterO_tF">handleRoute(route:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">handleRoute</span><span class="p">(</span><span class="nv">route</span><span class="p">:</span> <span class="kt"><a href="../Enums/Router.html">Router</a></span><span class="p">)</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <div class="task-name-container">
+                <a name="/SEARCH%20CONTROLLER%20%20DELEGATE"></a>
+                <a name="//apple_ref/swift/Section/SEARCH CONTROLLER  DELEGATE" class="dashAnchor"></a>
+                <div class="section-name-container">
+                  <a class="section-name-link" href="#/SEARCH%20CONTROLLER%20%20DELEGATE"></a>
+                  <h3 class="section-name"><p>SEARCH CONTROLLER  DELEGATE</p>
+</h3>
+                </div>
+              </div>
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@CM@Superhero@objc(cs)SearchViewController(im)updateSearchResultsForSearchController:"></a>
+                    <a name="//apple_ref/swift/Method/updateSearchResults(for:)" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@CM@Superhero@objc(cs)SearchViewController(im)updateSearchResultsForSearchController:">updateSearchResults(for:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">updateSearchResults</span><span class="p">(</span><span class="k">for</span> <span class="nv">searchController</span><span class="p">:</span> <span class="kt">UISearchController</span><span class="p">)</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <div class="task-name-container">
+                <a name="/UI%20SEARCH%20BAR%20%20DELEGATE"></a>
+                <a name="//apple_ref/swift/Section/UI SEARCH BAR  DELEGATE" class="dashAnchor"></a>
+                <div class="section-name-container">
+                  <a class="section-name-link" href="#/UI%20SEARCH%20BAR%20%20DELEGATE"></a>
+                  <h3 class="section-name"><p>UI SEARCH BAR  DELEGATE</p>
+</h3>
+                </div>
+              </div>
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@CM@Superhero@objc(cs)SearchViewController(im)searchBarSearchButtonClicked:"></a>
+                    <a name="//apple_ref/swift/Method/searchBarSearchButtonClicked(_:)" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@CM@Superhero@objc(cs)SearchViewController(im)searchBarSearchButtonClicked:">searchBarSearchButtonClicked(_:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">searchBarSearchButtonClicked</span><span class="p">(</span><span class="n">_</span> <span class="nv">searchBar</span><span class="p">:</span> <span class="kt">UISearchBar</span><span class="p">)</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@CM@Superhero@objc(cs)SearchViewController(im)searchBarCancelButtonClicked:"></a>
+                    <a name="//apple_ref/swift/Method/searchBarCancelButtonClicked(_:)" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@CM@Superhero@objc(cs)SearchViewController(im)searchBarCancelButtonClicked:">searchBarCancelButtonClicked(_:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">searchBarCancelButtonClicked</span><span class="p">(</span><span class="n">_</span> <span class="nv">searchBar</span><span class="p">:</span> <span class="kt">UISearchBar</span><span class="p">)</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <div class="task-name-container">
+                <a name="/TABLE%20VIEW%20%20DELEGATE"></a>
+                <a name="//apple_ref/swift/Section/TABLE VIEW  DELEGATE" class="dashAnchor"></a>
+                <div class="section-name-container">
+                  <a class="section-name-link" href="#/TABLE%20VIEW%20%20DELEGATE"></a>
+                  <h3 class="section-name"><p>TABLE VIEW  DELEGATE</p>
+</h3>
+                </div>
+              </div>
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@CM@Superhero@objc(cs)SearchViewController(im)tableView:didSelectRowAtIndexPath:"></a>
+                    <a name="//apple_ref/swift/Method/tableView(_:didSelectRowAt:)" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@CM@Superhero@objc(cs)SearchViewController(im)tableView:didSelectRowAtIndexPath:">tableView(_:<wbr>didSelectRowAt:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">tableView</span><span class="p">(</span><span class="n">_</span> <span class="nv">tableView</span><span class="p">:</span> <span class="kt">UITableView</span><span class="p">,</span> <span class="n">didSelectRowAt</span> <span class="nv">indexPath</span><span class="p">:</span> <span class="kt">IndexPath</span><span class="p">)</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <div class="task-name-container">
+                <a name="/TABLE%20VIEW%20DATASOURCE"></a>
+                <a name="//apple_ref/swift/Section/TABLE VIEW DATASOURCE" class="dashAnchor"></a>
+                <div class="section-name-container">
+                  <a class="section-name-link" href="#/TABLE%20VIEW%20DATASOURCE"></a>
+                  <h3 class="section-name"><p>TABLE VIEW DATASOURCE</p>
+</h3>
+                </div>
+              </div>
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@CM@Superhero@objc(cs)SearchViewController(im)tableView:numberOfRowsInSection:"></a>
+                    <a name="//apple_ref/swift/Method/tableView(_:numberOfRowsInSection:)" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@CM@Superhero@objc(cs)SearchViewController(im)tableView:numberOfRowsInSection:">tableView(_:<wbr>numberOfRowsInSection:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">tableView</span><span class="p">(</span><span class="n">_</span> <span class="nv">tableView</span><span class="p">:</span> <span class="kt">UITableView</span><span class="p">,</span>
+               <span class="n">numberOfRowsInSection</span> <span class="nv">section</span><span class="p">:</span> <span class="kt">Int</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Int</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@CM@Superhero@objc(cs)SearchViewController(im)tableView:cellForRowAtIndexPath:"></a>
+                    <a name="//apple_ref/swift/Method/tableView(_:cellForRowAt:)" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@CM@Superhero@objc(cs)SearchViewController(im)tableView:cellForRowAtIndexPath:">tableView(_:<wbr>cellForRowAt:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">tableView</span><span class="p">(</span><span class="n">_</span> <span class="nv">tableView</span><span class="p">:</span> <span class="kt">UITableView</span><span class="p">,</span> <span class="n">cellForRowAt</span> <span class="nv">indexPath</span><span class="p">:</span> <span class="kt">IndexPath</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">UITableViewCell</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </section>
+        </section>
+        <section id="footer">
+          <p>&copy; 2020 <a class="link" href="" target="_blank" rel="external"></a>. All rights reserved. (Last updated: 2020-05-25)</p>
+          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.13.3</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external">Realm</a> project.</p>
+        </section>
+      </article>
+    </div>
+  </body>
+</div>
+</html>

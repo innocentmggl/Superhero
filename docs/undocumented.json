@@ -1,0 +1,1097 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Application/AppConfigurations.swift",
+      "line": 16,
+      "symbol": "BaseUrl.dev",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Application/AppConfigurations.swift",
+      "line": 24,
+      "symbol": "AppConfigurations.shared",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Application/AppConfigurations.swift",
+      "line": 28,
+      "symbol": "AppConfigurations.keys",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Application/AppConfigurations.swift",
+      "line": 30,
+      "symbol": "AppConfigurations.environmentUrl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Application/AppConfigurations.swift",
+      "line": 34,
+      "symbol": "AppConfigurations.accessToken",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Application/AppConfigurations.swift",
+      "line": 38,
+      "symbol": "AppConfigurations.apiBaseUrl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Application/AppDelegate.swift",
+      "line": 12,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Application/AppDelegate.swift",
+      "line": 13,
+      "symbol": "AppDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Application/AppDelegate.swift",
+      "line": 14,
+      "symbol": "AppDelegate.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Application/DIContainer/AppDIContainer.swift",
+      "line": 17,
+      "symbol": "AppDIContainer.shared",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Application/DIContainer/AppDIContainer.swift",
+      "line": 22,
+      "symbol": "AppDIContainer.searchViewModel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Application/DIContainer/AppDIContainer.swift",
+      "line": 27,
+      "symbol": "AppDIContainer.superheroRepository",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Application/DIContainer/AppDIContainer.swift",
+      "line": 31,
+      "symbol": "AppDIContainer.searchManager",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Application/DIContainer/AppDIContainer.swift",
+      "line": 36,
+      "symbol": "AppDIContainer.moyaProvider",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Extensions/FontExtension.swift",
+      "line": 29,
+      "symbol": "FontFace.bold",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Extensions/FontExtension.swift",
+      "line": 30,
+      "symbol": "FontFace.book",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Extensions/FontExtension.swift",
+      "line": 31,
+      "symbol": "FontFace.medium",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Extensions/FontExtension.swift",
+      "line": 32,
+      "symbol": "FontFace.light",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Extensions/FontExtension.swift",
+      "line": 33,
+      "symbol": "FontFace.thin",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Extensions/FontExtension.swift",
+      "line": 37,
+      "symbol": "FontSize.small",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Extensions/FontExtension.swift",
+      "line": 38,
+      "symbol": "FontSize.medium",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Extensions/FontExtension.swift",
+      "line": 39,
+      "symbol": "FontSize.large",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Extensions/FontExtension.swift",
+      "line": 40,
+      "symbol": "FontSize.extraLarge",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Extensions/FontExtension.swift",
+      "line": 41,
+      "symbol": "FontSize.xxLarge",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Extensions/LoadingIndicactor.swift",
+      "line": 17,
+      "symbol": "loadingView",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Extensions/StoryboardInstantiable.swift",
+      "line": 11,
+      "symbol": "StoryboardInstantiable",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Extensions/StoryboardInstantiable.swift",
+      "line": 13,
+      "symbol": "StoryboardInstantiable",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Extensions/StoryboardInstantiable.swift",
+      "line": 14,
+      "symbol": "StoryboardInstantiable.instantiate(storyboardName:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Extensions/StoryboardInstantiable.swift",
+      "line": 24,
+      "symbol": "NSObject.className",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Extensions/StoryboardInstantiable.swift",
+      "line": 28,
+      "symbol": "NSObject.className",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Extensions/UITableView+UIViews.swift",
+      "line": 76,
+      "symbol": "UISearchBar.textField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 11,
+      "symbol": "Superhero",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 12,
+      "symbol": "Superhero.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 13,
+      "symbol": "Superhero.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 14,
+      "symbol": "Superhero.powerStats",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 15,
+      "symbol": "Superhero.biography",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 16,
+      "symbol": "Superhero.image",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 19,
+      "symbol": "Superhero",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 20,
+      "symbol": "Superhero.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 21,
+      "symbol": "Superhero.CodingKeys.id",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 22,
+      "symbol": "Superhero.CodingKeys.name",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 23,
+      "symbol": "Superhero.CodingKeys.powerStats",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 24,
+      "symbol": "Superhero.CodingKeys.biography",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 25,
+      "symbol": "Superhero.CodingKeys.image",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 29,
+      "symbol": "Superhero",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 39,
+      "symbol": "PowerStats",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 40,
+      "symbol": "PowerStats.intelligence",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 41,
+      "symbol": "PowerStats.strength",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 42,
+      "symbol": "PowerStats.speed",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 43,
+      "symbol": "PowerStats.durability",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 44,
+      "symbol": "PowerStats.power",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 45,
+      "symbol": "PowerStats.combat",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 48,
+      "symbol": "PowerStats",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 49,
+      "symbol": "PowerStats.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 50,
+      "symbol": "PowerStats.CodingKeys.intelligence",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 51,
+      "symbol": "PowerStats.CodingKeys.strength",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 52,
+      "symbol": "PowerStats.CodingKeys.speed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 53,
+      "symbol": "PowerStats.CodingKeys.durability",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 54,
+      "symbol": "PowerStats.CodingKeys.power",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 55,
+      "symbol": "PowerStats.CodingKeys.combat",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 59,
+      "symbol": "Biography",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 60,
+      "symbol": "Biography.fullName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 61,
+      "symbol": "Biography.aliases",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 62,
+      "symbol": "Biography.firstAppearance",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 65,
+      "symbol": "Biography",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 66,
+      "symbol": "Biography.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 67,
+      "symbol": "Biography.CodingKeys.fullName",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 68,
+      "symbol": "Biography.CodingKeys.aliases",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 69,
+      "symbol": "Biography.CodingKeys.firstAppearance",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 73,
+      "symbol": "Avatar",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 74,
+      "symbol": "Avatar.url",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 76,
+      "symbol": "Avatar",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 77,
+      "symbol": "Avatar.AvatarCodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/Superhero.swift",
+      "line": 78,
+      "symbol": "Avatar.AvatarCodingKeys.url",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/SuperheroResponse.swift",
+      "line": 13,
+      "symbol": "SuperheroResponse.response",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/SuperheroResponse.swift",
+      "line": 14,
+      "symbol": "SuperheroResponse.characterName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/SuperheroResponse.swift",
+      "line": 15,
+      "symbol": "SuperheroResponse.error",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/SuperheroResponse.swift",
+      "line": 16,
+      "symbol": "SuperheroResponse.results",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/SuperheroResponse.swift",
+      "line": 20,
+      "symbol": "SuperheroResponse.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/SuperheroResponse.swift",
+      "line": 21,
+      "symbol": "SuperheroResponse.CodingKeys.response",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/SuperheroResponse.swift",
+      "line": 22,
+      "symbol": "SuperheroResponse.CodingKeys.error",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/SuperheroResponse.swift",
+      "line": 23,
+      "symbol": "SuperheroResponse.CodingKeys.characterName",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Models/SuperheroResponse.swift",
+      "line": 24,
+      "symbol": "SuperheroResponse.CodingKeys.results",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewController.swift",
+      "line": 15,
+      "symbol": "SearchViewController.tableView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewController.swift",
+      "line": 22,
+      "symbol": "SearchViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewController.swift",
+      "line": 28,
+      "symbol": "SearchViewController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewController.swift",
+      "line": 32,
+      "symbol": "SearchViewController.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewController.swift",
+      "line": 49,
+      "symbol": "SearchViewController.handleRoute(route:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewController.swift",
+      "line": 85,
+      "symbol": "SearchViewController.updateSearchResults(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewController.swift",
+      "line": 91,
+      "symbol": "SearchViewController.searchBarSearchButtonClicked(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewController.swift",
+      "line": 95,
+      "symbol": "SearchViewController.searchBarCancelButtonClicked(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewController.swift",
+      "line": 101,
+      "symbol": "SearchViewController.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewController.swift",
+      "line": 108,
+      "symbol": "SearchViewController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewController.swift",
+      "line": 113,
+      "symbol": "SearchViewController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewModel.swift",
+      "line": 11,
+      "symbol": "Router",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewModel.swift",
+      "line": 12,
+      "symbol": "Router.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewModel.swift",
+      "line": 13,
+      "symbol": "Router.showDetails(with:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewModel.swift",
+      "line": 17,
+      "symbol": "SearchViewModelInput",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewModel.swift",
+      "line": 18,
+      "symbol": "SearchViewModelInput.search(superhero:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewModel.swift",
+      "line": 19,
+      "symbol": "SearchViewModelInput.selectedItem(at:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewModel.swift",
+      "line": 23,
+      "symbol": "SearchViewModelOutput",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewModel.swift",
+      "line": 24,
+      "symbol": "SearchViewModelOutput.items",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewModel.swift",
+      "line": 25,
+      "symbol": "SearchViewModelOutput.error",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewModel.swift",
+      "line": 26,
+      "symbol": "SearchViewModelOutput.loading",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewModel.swift",
+      "line": 27,
+      "symbol": "SearchViewModelOutput.message",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewModel.swift",
+      "line": 28,
+      "symbol": "SearchViewModelOutput.route",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewModel.swift",
+      "line": 31,
+      "symbol": "SearchViewModel",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewModel.swift",
+      "line": 36,
+      "symbol": "DefaultSearchViewModel.repository",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewModel.swift",
+      "line": 37,
+      "symbol": "DefaultSearchViewModel.searchManager",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewModel.swift",
+      "line": 40,
+      "symbol": "DefaultSearchViewModel.items",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewModel.swift",
+      "line": 41,
+      "symbol": "DefaultSearchViewModel.error",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewModel.swift",
+      "line": 42,
+      "symbol": "DefaultSearchViewModel.loading",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewModel.swift",
+      "line": 43,
+      "symbol": "DefaultSearchViewModel.message",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewModel.swift",
+      "line": 44,
+      "symbol": "DefaultSearchViewModel.route",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SearchViewModel.swift",
+      "line": 46,
+      "symbol": "DefaultSearchViewModel.init(searchRespository:searchManager:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SuperheroItemCell.swift",
+      "line": 14,
+      "symbol": "SuperheroItemCell.reuseIdentifier",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SuperheroItemCell.swift",
+      "line": 15,
+      "symbol": "SuperheroItemCell.avatar",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SuperheroItemCell.swift",
+      "line": 16,
+      "symbol": "SuperheroItemCell.nameLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SuperheroItemCell.swift",
+      "line": 17,
+      "symbol": "SuperheroItemCell.fullNameLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/SearchSuperhero/SuperheroItemCell.swift",
+      "line": 18,
+      "symbol": "SuperheroItemCell.firstAppearedLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/ShowSuperhero/ShowDetailsViewController.swift",
+      "line": 13,
+      "symbol": "ShowDetailsViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/ShowSuperhero/ShowDetailsViewController.swift",
+      "line": 15,
+      "symbol": "ShowDetailsViewController.imageView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/ShowSuperhero/ShowDetailsViewController.swift",
+      "line": 16,
+      "symbol": "ShowDetailsViewController.contentViewHeightMultiplier",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/ShowSuperhero/ShowDetailsViewController.swift",
+      "line": 17,
+      "symbol": "ShowDetailsViewController.contentView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/ShowSuperhero/ShowDetailsViewController.swift",
+      "line": 18,
+      "symbol": "ShowDetailsViewController.fullNameLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/ShowSuperhero/ShowDetailsViewController.swift",
+      "line": 19,
+      "symbol": "ShowDetailsViewController.firstAppearedLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/ShowSuperhero/ShowDetailsViewController.swift",
+      "line": 20,
+      "symbol": "ShowDetailsViewController.chartsView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/ShowSuperhero/ShowDetailsViewController.swift",
+      "line": 24,
+      "symbol": "ShowDetailsViewController.create(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/ShowSuperhero/ShowDetailsViewController.swift",
+      "line": 30,
+      "symbol": "ShowDetailsViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/ShowSuperhero/ShowDetailsViewController.swift",
+      "line": 46,
+      "symbol": "ShowDetailsViewController.setupChart()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/ShowSuperhero/ShowDetailsViewModel.swift",
+      "line": 12,
+      "symbol": "ShowDetailsViewModelOutput",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/ShowSuperhero/ShowDetailsViewModel.swift",
+      "line": 13,
+      "symbol": "ShowDetailsViewModelOutput.superhero",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/ShowSuperhero/ShowDetailsViewModel.swift",
+      "line": 16,
+      "symbol": "ShowDetailsViewModel",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/ShowSuperhero/ShowDetailsViewModel.swift",
+      "line": 21,
+      "symbol": "DefaultShowDetailsViewModel.superhero",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Scenes/ShowSuperhero/ShowDetailsViewModel.swift",
+      "line": 23,
+      "symbol": "DefaultShowDetailsViewModel.init(superhero:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Service/SuperheroApi.swift",
+      "line": 12,
+      "symbol": "SuperheroApi",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Service/SuperheroApi.swift",
+      "line": 13,
+      "symbol": "SuperheroApi.search(name:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Service/SuperheroApi.swift",
+      "line": 17,
+      "symbol": "SuperheroApi",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Service/SuperheroRepository.swift",
+      "line": 12,
+      "symbol": "ApiError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Service/SuperheroRepository.swift",
+      "line": 13,
+      "symbol": "ApiError.known(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Service/SuperheroRepository.swift",
+      "line": 14,
+      "symbol": "ApiError.unknown(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Service/SuperheroRepository.swift",
+      "line": 19,
+      "symbol": "SuperheroRepository.provider",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Service/SuperheroRepository.swift",
+      "line": 20,
+      "symbol": "SuperheroRepository.requests",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Service/SuperheroRepository.swift",
+      "line": 21,
+      "symbol": "SuperheroRepository.searchSuperhero(name:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Service/SuperheroRepository.swift",
+      "line": 24,
+      "symbol": "SuperheroRepositoryImplementation",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Service/SuperheroRepository.swift",
+      "line": 25,
+      "symbol": "SuperheroRepositoryImplementation.provider",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Service/SuperheroRepository.swift",
+      "line": 26,
+      "symbol": "SuperheroRepositoryImplementation.requests",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Service/SuperheroRepository.swift",
+      "line": 27,
+      "symbol": "SuperheroRepositoryImplementation.init(provider:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Service/SuperheroRepository.swift",
+      "line": 30,
+      "symbol": "SuperheroRepositoryImplementation.searchSuperhero(name:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/UI/RoundConerView.swift",
+      "line": 17,
+      "symbol": "RoundConerView.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Utils/Box.swift",
+      "line": 13,
+      "symbol": "Box.Listener",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Utils/Box.swift",
+      "line": 14,
+      "symbol": "Box.listener",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Utils/Box.swift",
+      "line": 16,
+      "symbol": "Box.value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Utils/Box.swift",
+      "line": 19,
+      "symbol": "Box.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Utils/SearchManager.swift",
+      "line": 13,
+      "symbol": "SearchManager.debounce(forSearch:action:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero/Superhero/Utils/SearchManager.swift",
+      "line": 24,
+      "symbol": "DefaultSearchManager.init(delay:queue:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/innocentmagagula/Developer/innocent/projects/iOS/Superhero"
+}
